@@ -1,0 +1,27 @@
+ar:
+  locale_name: العربية
+  nav:
+    about: حول
+    contribute: المساهمة
+  index:
+    lead: البرمجيات مفتوحة المصدر يتم إنشاؤها من قبل أشخاص مثلك. تعرف على كيفية إطلاق مشروعك وتطويره.
+    opensourcefriday: إنه يوم الجمعة! استثمر بضع ساعات في المساهمة في البرمجيات التي تستخدمها وتحبها.
+  article:
+    table_of_contents: جدول المحتويات
+    back_to_all_guides: العودة إلى جميع الأدلة
+    related_guides: أدلة ذات صلة
+  footer:
+    contribute:
+      heading: المساهمة
+      description: هل ترغب في تقديم اقتراح؟ هذا المحتوى مفتوح المصدر. ساعدنا في تحسينه.
+      button: المساهمة
+    subscribe:
+      heading: ابقَ على تواصل
+      description: كن أول من يعرف أحدث نصائح وموارد GitHub مفتوحة المصدر.
+      label: عنوان البريد الإلكتروني
+      button: الاشتراك
+    byline:
+      format: "[code] بحب [love] من [github] و[الأصدقاء]"
+      code_label: كود
+      love_label: حب
+      friends_label: الأصدقاء

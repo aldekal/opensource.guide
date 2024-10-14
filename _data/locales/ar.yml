@@ -17,11 +17,11 @@ ar:
       button: المساهمة
     subscribe:
       heading: ابقَ على تواصل
-      description: كن أول من يعرف أحدث نصائح وموارد GitHub مفتوحة المصدر.
+      description: "\u202Bكن أول من يعرف آخر نصائح وموارد GitHub مفتوحة المصدر\u202C"
       label: عنوان البريد الإلكتروني
       button: الاشتراك
     byline:
-      format: "[code] بحب [love] من [github] و[الأصدقاء]"
+      format: "\u202B[code] مع \u202B[love] من \u202B[github] و\u202B[friends]\u202C"
       code_label: كود
       love_label: حب
       friends_label: الأصدقاء

@@ -251,12 +251,13 @@ blockquote {
   -webkit-appearance: none;
 }
 
-*:lang(fa) {
-.article-body,
- .lead,
+*:is(:lang(fa), :lang(ar)) {
+  .article-body,
+  .lead,
   h2,
   p,
   h3 {
-   direction: rtl;  /* Right to Left */
+    direction: rtl; /* Right to Left */
   }
 }
+
